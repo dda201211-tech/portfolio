@@ -1,6 +1,5 @@
-markdown
-
 About Me
+
 My name is Darya Danilina.
 I am a student from Russia. I love fencing, art, crafts, and learning languages.
 I am preparing to apply to top universities in the USA and Europe by 2029.

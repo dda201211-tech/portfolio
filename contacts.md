@@ -1,6 +1,5 @@
-markdown
-
 Contacts
+
 This page will show my contact information for:
 
 universities,

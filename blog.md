@@ -1,6 +1,5 @@
-markdown
-
 Blog
+
 Sometimes I will write short posts about:
 
 fencing tournaments and training,

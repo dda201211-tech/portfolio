@@ -1,6 +1,6 @@
 Fencing
 
-I have been fencing for more than 5 years.
+I have been fencing for 6 years.
 
 Here I will collect:
 

@@ -1,7 +1,7 @@
 # Welcome
 ## This is the portfolio of Darya Danilina.
 
-* [About]
+* [About](about.md)
 * [Works]
 * [Fencing]
 * [Blog]

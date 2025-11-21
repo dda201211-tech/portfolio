@@ -2,7 +2,7 @@
 ## This is the portfolio of Darya Danilina.
 
 * [About](about.md)
-* [Works]
-* [Fencing]
-* [Blog]
-* [Contacts]
+* [Works](works.md)
+* [Fencing](fencing.md)
+* [Blog](blog.md)
+* [Contacts](contacts.md)
